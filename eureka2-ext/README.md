@@ -1,1 +1,0 @@
-This package contains additional, optional Eureka modules. 
